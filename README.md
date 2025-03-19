@@ -1,2 +1,4 @@
 # Informaticawetenschappen
-Lessenreeks voor informaticawetenschappen in het vijfde jaar bio-technologische en chemische stemwetenschappen
+Lessenreeks voor informaticawetenschappen in het vijfde jaar **bio-technologische en chemische stemwetenschappen**
+
+## Deel 1
